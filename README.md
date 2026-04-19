@@ -1,5 +1,5 @@
-Human Business Engine (HBE) — Light Edition
-Overview
+# Human Business Engine (HBE) — Light Edition
+## Overview
 Human Business Engine (HBE) is a structural interpretation framework designed to identify recurring patterns in human-business dynamics.
 This repository contains the Light Edition of HBE — a limited public version intended to show the conceptual structure of the framework without exposing the full analytical engine.
 HBE is not a motivational model, a personality system, or a conventional business method.
