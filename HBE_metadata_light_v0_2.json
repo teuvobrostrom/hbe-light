@@ -1,0 +1,16 @@
+{
+  "name": "HBE Light Extended",
+  "version": "0.2-light",
+  "description": "Expanded public teaser version with richer datasets",
+  "author": "Teuvo Broström",
+  "structure": {
+    "signals": "Pattern recognition layer",
+    "cards": "Interpretation layer",
+    "examples": "Demonstration layer"
+  },
+  "limitations": [
+    "No scoring engine",
+    "No constraint logic",
+    "No automation layer"
+  ]
+}

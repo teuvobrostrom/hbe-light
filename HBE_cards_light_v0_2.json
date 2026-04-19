@@ -1,0 +1,185 @@
+{
+  "version": "0.2-light",
+  "cards": [
+    {
+      "id": "HBE-CARD-01",
+      "title": "Diagnostic Card 1",
+      "principle": "Core principle 1 describing system behavior under condition 1.",
+      "indicators": [
+        "Indicator 1-A",
+        "Indicator 1-B",
+        "Indicator 1-C"
+      ],
+      "analysis": "Extended interpretation logic for card 1.",
+      "recommended_action": "Suggested directional response 1."
+    },
+    {
+      "id": "HBE-CARD-02",
+      "title": "Diagnostic Card 2",
+      "principle": "Core principle 2 describing system behavior under condition 2.",
+      "indicators": [
+        "Indicator 2-A",
+        "Indicator 2-B",
+        "Indicator 2-C"
+      ],
+      "analysis": "Extended interpretation logic for card 2.",
+      "recommended_action": "Suggested directional response 2."
+    },
+    {
+      "id": "HBE-CARD-03",
+      "title": "Diagnostic Card 3",
+      "principle": "Core principle 3 describing system behavior under condition 3.",
+      "indicators": [
+        "Indicator 3-A",
+        "Indicator 3-B",
+        "Indicator 3-C"
+      ],
+      "analysis": "Extended interpretation logic for card 3.",
+      "recommended_action": "Suggested directional response 3."
+    },
+    {
+      "id": "HBE-CARD-04",
+      "title": "Diagnostic Card 4",
+      "principle": "Core principle 4 describing system behavior under condition 4.",
+      "indicators": [
+        "Indicator 4-A",
+        "Indicator 4-B",
+        "Indicator 4-C"
+      ],
+      "analysis": "Extended interpretation logic for card 4.",
+      "recommended_action": "Suggested directional response 4."
+    },
+    {
+      "id": "HBE-CARD-05",
+      "title": "Diagnostic Card 5",
+      "principle": "Core principle 5 describing system behavior under condition 5.",
+      "indicators": [
+        "Indicator 5-A",
+        "Indicator 5-B",
+        "Indicator 5-C"
+      ],
+      "analysis": "Extended interpretation logic for card 5.",
+      "recommended_action": "Suggested directional response 5."
+    },
+    {
+      "id": "HBE-CARD-06",
+      "title": "Diagnostic Card 6",
+      "principle": "Core principle 6 describing system behavior under condition 6.",
+      "indicators": [
+        "Indicator 6-A",
+        "Indicator 6-B",
+        "Indicator 6-C"
+      ],
+      "analysis": "Extended interpretation logic for card 6.",
+      "recommended_action": "Suggested directional response 6."
+    },
+    {
+      "id": "HBE-CARD-07",
+      "title": "Diagnostic Card 7",
+      "principle": "Core principle 7 describing system behavior under condition 7.",
+      "indicators": [
+        "Indicator 7-A",
+        "Indicator 7-B",
+        "Indicator 7-C"
+      ],
+      "analysis": "Extended interpretation logic for card 7.",
+      "recommended_action": "Suggested directional response 7."
+    },
+    {
+      "id": "HBE-CARD-08",
+      "title": "Diagnostic Card 8",
+      "principle": "Core principle 8 describing system behavior under condition 8.",
+      "indicators": [
+        "Indicator 8-A",
+        "Indicator 8-B",
+        "Indicator 8-C"
+      ],
+      "analysis": "Extended interpretation logic for card 8.",
+      "recommended_action": "Suggested directional response 8."
+    },
+    {
+      "id": "HBE-CARD-09",
+      "title": "Diagnostic Card 9",
+      "principle": "Core principle 9 describing system behavior under condition 9.",
+      "indicators": [
+        "Indicator 9-A",
+        "Indicator 9-B",
+        "Indicator 9-C"
+      ],
+      "analysis": "Extended interpretation logic for card 9.",
+      "recommended_action": "Suggested directional response 9."
+    },
+    {
+      "id": "HBE-CARD-10",
+      "title": "Diagnostic Card 10",
+      "principle": "Core principle 10 describing system behavior under condition 10.",
+      "indicators": [
+        "Indicator 10-A",
+        "Indicator 10-B",
+        "Indicator 10-C"
+      ],
+      "analysis": "Extended interpretation logic for card 10.",
+      "recommended_action": "Suggested directional response 10."
+    },
+    {
+      "id": "HBE-CARD-11",
+      "title": "Diagnostic Card 11",
+      "principle": "Core principle 11 describing system behavior under condition 11.",
+      "indicators": [
+        "Indicator 11-A",
+        "Indicator 11-B",
+        "Indicator 11-C"
+      ],
+      "analysis": "Extended interpretation logic for card 11.",
+      "recommended_action": "Suggested directional response 11."
+    },
+    {
+      "id": "HBE-CARD-12",
+      "title": "Diagnostic Card 12",
+      "principle": "Core principle 12 describing system behavior under condition 12.",
+      "indicators": [
+        "Indicator 12-A",
+        "Indicator 12-B",
+        "Indicator 12-C"
+      ],
+      "analysis": "Extended interpretation logic for card 12.",
+      "recommended_action": "Suggested directional response 12."
+    },
+    {
+      "id": "HBE-CARD-13",
+      "title": "Diagnostic Card 13",
+      "principle": "Core principle 13 describing system behavior under condition 13.",
+      "indicators": [
+        "Indicator 13-A",
+        "Indicator 13-B",
+        "Indicator 13-C"
+      ],
+      "analysis": "Extended interpretation logic for card 13.",
+      "recommended_action": "Suggested directional response 13."
+    },
+    {
+      "id": "HBE-CARD-14",
+      "title": "Diagnostic Card 14",
+      "principle": "Core principle 14 describing system behavior under condition 14.",
+      "indicators": [
+        "Indicator 14-A",
+        "Indicator 14-B",
+        "Indicator 14-C"
+      ],
+      "analysis": "Extended interpretation logic for card 14.",
+      "recommended_action": "Suggested directional response 14."
+    },
+    {
+      "id": "HBE-CARD-15",
+      "title": "Diagnostic Card 15",
+      "principle": "Core principle 15 describing system behavior under condition 15.",
+      "indicators": [
+        "Indicator 15-A",
+        "Indicator 15-B",
+        "Indicator 15-C"
+      ],
+      "analysis": "Extended interpretation logic for card 15.",
+      "recommended_action": "Suggested directional response 15."
+    }
+  ]
+}

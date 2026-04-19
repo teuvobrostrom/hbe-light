@@ -1,0 +1,245 @@
+{
+  "version": "0.2-light",
+  "signals": [
+    {
+      "id": "HBE.SIGNAL_01",
+      "name": "Signal Pattern 1",
+      "description": "Extended behavioral and structural pattern 1 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A1",
+        "Example scenario B1",
+        "Example scenario C1"
+      ],
+      "impact": "high",
+      "category": "transition"
+    },
+    {
+      "id": "HBE.SIGNAL_02",
+      "name": "Signal Pattern 2",
+      "description": "Extended behavioral and structural pattern 2 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A2",
+        "Example scenario B2",
+        "Example scenario C2"
+      ],
+      "impact": "low",
+      "category": "flow"
+    },
+    {
+      "id": "HBE.SIGNAL_03",
+      "name": "Signal Pattern 3",
+      "description": "Extended behavioral and structural pattern 3 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A3",
+        "Example scenario B3",
+        "Example scenario C3"
+      ],
+      "impact": "high",
+      "category": "transition"
+    },
+    {
+      "id": "HBE.SIGNAL_04",
+      "name": "Signal Pattern 4",
+      "description": "Extended behavioral and structural pattern 4 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A4",
+        "Example scenario B4",
+        "Example scenario C4"
+      ],
+      "impact": "low",
+      "category": "opportunity"
+    },
+    {
+      "id": "HBE.SIGNAL_05",
+      "name": "Signal Pattern 5",
+      "description": "Extended behavioral and structural pattern 5 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A5",
+        "Example scenario B5",
+        "Example scenario C5"
+      ],
+      "impact": "low",
+      "category": "crisis"
+    },
+    {
+      "id": "HBE.SIGNAL_06",
+      "name": "Signal Pattern 6",
+      "description": "Extended behavioral and structural pattern 6 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A6",
+        "Example scenario B6",
+        "Example scenario C6"
+      ],
+      "impact": "high",
+      "category": "flow"
+    },
+    {
+      "id": "HBE.SIGNAL_07",
+      "name": "Signal Pattern 7",
+      "description": "Extended behavioral and structural pattern 7 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A7",
+        "Example scenario B7",
+        "Example scenario C7"
+      ],
+      "impact": "low",
+      "category": "opportunity"
+    },
+    {
+      "id": "HBE.SIGNAL_08",
+      "name": "Signal Pattern 8",
+      "description": "Extended behavioral and structural pattern 8 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A8",
+        "Example scenario B8",
+        "Example scenario C8"
+      ],
+      "impact": "high",
+      "category": "opportunity"
+    },
+    {
+      "id": "HBE.SIGNAL_09",
+      "name": "Signal Pattern 9",
+      "description": "Extended behavioral and structural pattern 9 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A9",
+        "Example scenario B9",
+        "Example scenario C9"
+      ],
+      "impact": "moderate",
+      "category": "transition"
+    },
+    {
+      "id": "HBE.SIGNAL_10",
+      "name": "Signal Pattern 10",
+      "description": "Extended behavioral and structural pattern 10 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A10",
+        "Example scenario B10",
+        "Example scenario C10"
+      ],
+      "impact": "high",
+      "category": "transition"
+    },
+    {
+      "id": "HBE.SIGNAL_11",
+      "name": "Signal Pattern 11",
+      "description": "Extended behavioral and structural pattern 11 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A11",
+        "Example scenario B11",
+        "Example scenario C11"
+      ],
+      "impact": "high",
+      "category": "flow"
+    },
+    {
+      "id": "HBE.SIGNAL_12",
+      "name": "Signal Pattern 12",
+      "description": "Extended behavioral and structural pattern 12 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A12",
+        "Example scenario B12",
+        "Example scenario C12"
+      ],
+      "impact": "low",
+      "category": "flow"
+    },
+    {
+      "id": "HBE.SIGNAL_13",
+      "name": "Signal Pattern 13",
+      "description": "Extended behavioral and structural pattern 13 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A13",
+        "Example scenario B13",
+        "Example scenario C13"
+      ],
+      "impact": "high",
+      "category": "transition"
+    },
+    {
+      "id": "HBE.SIGNAL_14",
+      "name": "Signal Pattern 14",
+      "description": "Extended behavioral and structural pattern 14 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A14",
+        "Example scenario B14",
+        "Example scenario C14"
+      ],
+      "impact": "low",
+      "category": "crisis"
+    },
+    {
+      "id": "HBE.SIGNAL_15",
+      "name": "Signal Pattern 15",
+      "description": "Extended behavioral and structural pattern 15 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A15",
+        "Example scenario B15",
+        "Example scenario C15"
+      ],
+      "impact": "moderate",
+      "category": "transition"
+    },
+    {
+      "id": "HBE.SIGNAL_16",
+      "name": "Signal Pattern 16",
+      "description": "Extended behavioral and structural pattern 16 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A16",
+        "Example scenario B16",
+        "Example scenario C16"
+      ],
+      "impact": "low",
+      "category": "opportunity"
+    },
+    {
+      "id": "HBE.SIGNAL_17",
+      "name": "Signal Pattern 17",
+      "description": "Extended behavioral and structural pattern 17 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A17",
+        "Example scenario B17",
+        "Example scenario C17"
+      ],
+      "impact": "moderate",
+      "category": "opportunity"
+    },
+    {
+      "id": "HBE.SIGNAL_18",
+      "name": "Signal Pattern 18",
+      "description": "Extended behavioral and structural pattern 18 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A18",
+        "Example scenario B18",
+        "Example scenario C18"
+      ],
+      "impact": "low",
+      "category": "opportunity"
+    },
+    {
+      "id": "HBE.SIGNAL_19",
+      "name": "Signal Pattern 19",
+      "description": "Extended behavioral and structural pattern 19 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A19",
+        "Example scenario B19",
+        "Example scenario C19"
+      ],
+      "impact": "low",
+      "category": "crisis"
+    },
+    {
+      "id": "HBE.SIGNAL_20",
+      "name": "Signal Pattern 20",
+      "description": "Extended behavioral and structural pattern 20 describing interaction between internal state and external business conditions.",
+      "examples": [
+        "Example scenario A20",
+        "Example scenario B20",
+        "Example scenario C20"
+      ],
+      "impact": "moderate",
+      "category": "crisis"
+    }
+  ]
+}
